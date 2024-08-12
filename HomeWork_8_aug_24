@@ -1,0 +1,22 @@
+Question B1: WAP to input the marks of a student and print the result (passing marks = 40 %).
+Question B2: WAP to input the age of a person and check that he is eligible for license for not.
+Question B3: WAP to check that a given year is a leap year or not.
+Question B4: WAP to input a number and check whether it is even or odd.
+Question B5: WAP to input a number and check that number is divisible by 7 or not.
+Question B6: According to the Gregorian calendar, it was Monday on the date 01/01/1900. If any year is input through the keyboard write a program to find out what is the day on 1st January of this year.
+Question B7: WAP to input the name and age of a person and display “CHILD” or “TEENAGER” according to the age.
+Question B8: WAP to input the salary of a person and calculate the hra and da according to the following conditions:
+		Salary 				HRA		DA
+ 		5000-10000			10%		5%	
+		10001-15000			15%		8%
+Question B9: WAP to input marks in five subjects of a student and calculate the division according to the following conditions:
+		Percentage				Division
+		>=60					First
+		50-59					Second
+		40-49					Third
+		<40					Fail
+Question B10: An electricity board charges according to the following rates:
+		For the first 100 units -   40 paisa per unit.
+		For the next 200 units -   50 paisa per unit.
+		beyond 300 units -  60 paisa per unit.
+All users are charged meter charges also, which are Rs. 50/-

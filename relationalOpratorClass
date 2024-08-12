@@ -1,0 +1,49 @@
+==  Control Statment / Relational Opretor 
+
+> Greater Then 
+
+< Less Then
+
+>= Greater Then Equalto
+
+<= Less Then Equalto
+
+== Equalto
+
+= Assign Opretor    x=5 
+
+! Not 
+
+!= Not Equalto
+
+
+This Opretor used Using "If" Keyword 
+
+
+
+   => If() {  True Condition   }
+	
+		ex:  if(5> 4){ Yes  }
+		
+		
+	=> if() { True Condition } else { False Condition } 
+
+
+		Ex:  if(5>6) { True Condition } else { False Condition } 
+
+
+   Mukltiple Condition 	
+					Nested If condition
+					if(5> 4){
+							if(5>6){}
+						}
+
+
+					Nested If else condition
+					if(5>6){
+							if(5>6){}
+						}
+						else {
+						
+								if(5>7){}
+							}
